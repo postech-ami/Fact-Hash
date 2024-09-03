@@ -1,5 +1,4 @@
 # Fact-Hash
-# Uni-DVPS
 ### [Project Page](https://facthash.github.io/) | [Paper](https://facthash.github.io/)
 This repository contains the official implementation of the RA-L 2024 paper, 
 "Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices".
